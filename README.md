@@ -57,6 +57,9 @@ This document is highly adaptable and can be used in the following contexts:
 
 5. Provides data-driven insights for content improvement
 
+output
+
+![Image](https://github.com/user-attachments/assets/1ba2a0ec-9e39-4e8b-8252-7a32ed46abb9)
    
 
 
